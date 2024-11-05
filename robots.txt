@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyozuobi.github.io/CIZ/sitemap_index.txt
+Sitemap: https://oyozuobi.github.io/RpF/sitemap_index.txt
+Sitemap: https://oyozuobi.github.io/WOo/sitemap_index.txt
+Sitemap: https://oyozuobi.github.io/nNg/sitemap_index.txt
